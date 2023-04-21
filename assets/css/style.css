@@ -1,0 +1,12 @@
+body {
+    background-color: #2E3E50;
+}
+
+.searchBox {
+    background-color: #D9E8E8;
+    color: #2E3E50;
+    font-weight: bolder;
+    height: 300px;
+    width: 80%;
+    margin: 0 auto;
+}
