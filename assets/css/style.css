@@ -10,3 +10,8 @@ body {
     width: 80%;
     margin: 0 auto;
 }
+
+.searchDrop::placeholder {
+    color: #757575;
+
+}
